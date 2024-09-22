@@ -1,19 +1,42 @@
-# Using the Figma design file
+# Frontend Mentor - Blog preview card solution
 
-Using this design file will help you practice building projects in the same way professionals do. Seeing the details in the design will help you improve your accuracy and build projects faster.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Figma](https://www.figma.com/) is an extremely popular design tool with a generous free tier and support for both Windows and Mac computers.
+## Table of contents
 
-To get started with Figma, [download the correct app for your operating system](https://www.figma.com/downloads/). You can then open the app and open the `.fig` design file by dragging it over the app or using the "import" button.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-If you're going to use the Desktop App, you don't need to download the Font Installer from the downloads page. But if you're planning on using the Figma web app you should download and install it to ensure the fonts show up correctly.
+## Overview
 
-If you haven't used Figma before, we recommend reading our "[Figma for developers: How to work with a design file](https://www.frontendmentor.io/articles/figma-for-developers-how-to-work-with-a-design-file-m6CZKZ1rC1)" article. 
+### The challenge
 
----
+Users should be able to:
 
-**⚠️ IMPORTANT ⚠️: Please be sure not to share our design files with anyone else. We include `.gitignore` files in the starter code download to help prevent you from accidentally uploading it to GitHub. Another easy way to prevent this is to keep the design file separate from your codebase.**
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+- **Bonus**: Use the local JSON data to dynamically populate the content
 
----
+### Screenshot
 
-We hope you enjoy the challenge! 🙂
+![screenshot](./public/demo.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/tiedsandi/Blog-preview-card-Fe_challange)
+- Live Site URL: [Add live site URL here](https://sandi-fe-blog-card.netlify.app)
+
+## Built with
+
+- [Next.js](https://nextjs.org/) - React framework
+
+## Author
+
+- Website - [Fachran Sandi](https://fachran-sandi.netlify.app/)
+- Frontend Mentor - [@tiedsandi](https://www.frontendmentor.io/profile/tiedsandi)
+- LinkedIn - [@fachransandi](https://www.linkedin.com/in/fachransandi/)
+- Github - [@tiedsandi](https://github.com/tiedsandi)
